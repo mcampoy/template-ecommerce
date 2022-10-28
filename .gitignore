@@ -4,6 +4,8 @@ mongo/
 
 .env
 
+database/products.ts
+
 # dependencies
 /node_modules
 /.pnp
