@@ -2,7 +2,9 @@
 
 mongo/
 
+#envs
 .env
+.env.template
 
 database/products.ts
 
