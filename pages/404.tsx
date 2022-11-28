@@ -13,7 +13,6 @@ const Custom404Page = () => (
       <Typography variant='h1' component='h1' fontSize={80} fontWeight={200}> 404 | </Typography>
       <Typography marginLeft={2}> No encontramos ningún artículo</Typography>
     </Box>
-
   </ShopLayout>
 )
 
